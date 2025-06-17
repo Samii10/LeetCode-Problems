@@ -51,3 +51,9 @@ int main(){
     cout<<"Last Occurrence of 3 is "<< lastOcc(even, 5, 3)<<endl;
     return 0; 
 }
+
+
+// Don't copy these in your IDE
+Outputs in terminal:
+First Occurrence of 3 is 2
+Last Occurrence of 3 is 3 
